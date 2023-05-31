@@ -34,7 +34,7 @@ document.write(fruits2);
 console.log(fruits2);
 
 // Advanced E1
-let a = 7;
+let a = "7";
 let b = 14;
 let c = "21";
 let d = '36';
@@ -53,6 +53,13 @@ if (a > 100) {
   else {
     document.write("a is less than 100")
   }
+
+
+
+
+
+
+
 
 
 
